@@ -5,4 +5,4 @@ You are able to enter the city, hit go, and the app tells you the weather type (
 
 There is a screenshot in the file which shows the result of a search.
 
-This code should be run in atom and in a chrome browser using localhost:3000. You should have npm, nodemon and express.js installed to ensure the code runs correctly.
+This code was written in atom and runs in a chrome browser using localhost:3000. I have npm, nodemon and express.js installed to ensure the code runs correctly.
